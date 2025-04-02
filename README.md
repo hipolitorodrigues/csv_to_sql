@@ -24,7 +24,7 @@ pip install pandas ttkbootstrap
 ```
 
 ## Usage
-1. Run the Python script:
+1. Run the Python script (or just download and run " portable\ **csv_to_sql_script.exe** " file):
 
 ```sh
 python csv_to_sql.py
