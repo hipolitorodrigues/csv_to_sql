@@ -54,8 +54,15 @@ INSERT INTO [DimClients] VALUES (1, 'John Doe', 'john@example.com', 30);
 INSERT INTO [DimClients] VALUES (2, 'Jane Smith', 'jane@example.com', 25);
 ```
 
-## License
-This project is licensed under the MIT License.
+## Autor
 
-## Author
-Developed by [Your Name]
+- **Developer**: Hipolito Rodrigues
+- **Creation Date**: 04/02/2025
+- **Last Update**: 04/02/2025
+- **Current Version**: 1.1
+
+---
+
+## 📜 License
+
+This project is licensed under the MIT License. This means you are free to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the software, as long as you keep the original copyright notice and license included in all copies or substantial portions of the software.
